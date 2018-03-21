@@ -11,5 +11,7 @@ public class Barbarian extends Character {
 	// TODO Auto-generated method stub
 
 		System.out.println("You are a strong, hulky barbarian. Añadimos texto en esta linea");
-		System.out.println(bloquear usuario 2, tu nombre es conan);	}
+		System.out.println(bloquear usuario 2, tu nombre es conan);	
+				System.out.println("Julen usa comillas");	}
+		}
 }
